@@ -33,7 +33,7 @@ function draw() {
 	
 	background(bgcolor);
 	//fill(circolor);
-	image(img, 0, 0);
+	image(img, 100, 100);
 	img.resize(200, 200);
 	ellipse(x, y, 20, 20);
 	h1.position(x,y);
