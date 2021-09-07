@@ -9,7 +9,7 @@ var button;
 let img;
 
 function setup() {
-	canvas = createCanvas(500, 500);
+	canvas = createCanvas(500, 300);
 	background(100);
 	h1 = createElement("h1","i am h1");
 	canvas.position(0,0);
